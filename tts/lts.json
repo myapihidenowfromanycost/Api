@@ -123,12 +123,12 @@
         {
           "name": "T Sports 1",
           "type": "V",
-          "video": "https://live-cdn.tsports.com/live-01/index.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1705227595:KeyName=tsports-ed25519-01:Signature=m1n_kswOF-Qp4psQhJ0dqiG4swXU6YSW3CIth3GFqn03beoTyDq8llX8NprUuF4z0T_uNEKrMtxjEW1fICFLAg"
+          "video": "https://live-cdn.tsports.com/live-01/index.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1705309607:KeyName=tsports-ed25519-01:Signature=jAvzpRBD04yB7CYPlDtTtnNqyJTwzjgIn5yhfOdALZi3PD_Q-ZhByMH6Y9BTVMjFvozt3Fu9fqL2Qob-EZJhAw"
         },
         {
           "name": "T Sports 2",
           "type": "V",
-          "video": "https://live-cdn.tsports.com/live-02/index.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1705227595:KeyName=tsports-ed25519-01:Signature=m1n_kswOF-Qp4psQhJ0dqiG4swXU6YSW3CIth3GFqn03beoTyDq8llX8NprUuF4z0T_uNEKrMtxjEW1fICFLAg"
+          "video": "https://live-cdn.tsports.com/live-02/index.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1705309607:KeyName=tsports-ed25519-01:Signature=jAvzpRBD04yB7CYPlDtTtnNqyJTwzjgIn5yhfOdALZi3PD_Q-ZhByMH6Y9BTVMjFvozt3Fu9fqL2Qob-EZJhAw"
         },
         {
           "name": "Web 1",
@@ -202,42 +202,47 @@
         {
           "name": "Bangla",
           "type": "V",
-          "video": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099769/hd_akamai_iosmob_avc_ben_t2001/master.m3u8"
+          "video": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099769/hd_akamai_iosmob_avc_ben_t2002140124/master.m3u8"
+        },
+        {
+          "name": "English",
+          "type": "V",
+          "video": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_eng_t2002140124/master.m3u8"
         },
         {
           "name": "Hindi",
           "type": "V",
-          "video": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_t2001/master.m3u8"
+          "video": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_t2002140124/master.m3u8"
         },
         {
           "name": "Malayalam",
           "type": "V",
-          "video": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099795/hd_akamai_iosmob_avc_mal_t2001/master.m3u8"
+          "video": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099795/hd_akamai_iosmob_avc_mal_t2002140124/master.m3u8"
         },
         {
           "name": "Tamil",
           "type": "V",
-          "video": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099792/hd_akamai_iosmob_avc_tam_t2001/master.m3u8"
+          "video": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099792/hd_akamai_iosmob_avc_tam_t2002140124/master.m3u8"
         },
         {
           "name": "Telugu",
           "type": "V",
-          "video": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099789/hd_akamai_iosmob_avc_tel_t2001/master.m3u8"
+          "video": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099789/hd_akamai_iosmob_avc_tel_t2002140124/master.m3u8"
         },
         {
           "name": "Kannada",
           "type": "V",
-          "video": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099785/hd_akamai_iosmob_avc_kan_t2001/master.m3u8"
+          "video": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099785/hd_akamai_iosmob_avc_kan_t2002140124/master.m3u8"
         },
         {
           "name": "Gujarati",
           "type": "V",
-          "video": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099782/hd_akamai_iosmob_avc_guj_t2001/master.m3u8"
+          "video": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099782/hd_akamai_iosmob_avc_guj_t2002140124/master.m3u8"
         },
         {
           "name": "Punjabi",
           "type": "V",
-          "video": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099781/hd_akamai_iosmob_avc_punj_t2001/master.m3u8"
+          "video": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099781/hd_akamai_iosmob_avc_punj_t2002140124/master.m3u8"
         }
       ]
     },
