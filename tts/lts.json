@@ -257,7 +257,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://01-24.webhd.ru/ddh2/premium370/tracks-v1a1/mono.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+          "video": "https://webudit.webhd.ru/lb/premium370/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -272,7 +272,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy4/premium123/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium123/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -287,7 +287,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddh2/premium124/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium124/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -302,7 +302,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddh2/premium125/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium125/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -317,7 +317,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddh2/premium126/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium126/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -510,7 +510,7 @@
         {
           "name": "UK",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy4/premium70/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium70/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -536,7 +536,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy3/premium130/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium130/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -562,12 +562,12 @@
         {
           "name": "UK",
           "type": "V",
-          "video": "https://12.webhd.ru/esx3/premium35/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium35/index.m3u8|Referer=https://weblivehdplay.ru/"
         },
         {
           "name": "Italy",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy3/premium460/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium460/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -593,12 +593,12 @@
         {
           "name": "Uk",
           "type": "V",
-          "video": "https://12.webhd.ru/esx3/premium60/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium60/index.m3u8|Referer=https://weblivehdplay.ru/"
         },
         {
           "name": "Italy",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy5/premium462/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium462/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -624,12 +624,12 @@
         {
           "name": "UK",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy5/premium449/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium449/index.m3u8|Referer=https://weblivehdplay.ru/"
         },
         {
           "name": "DE",
           "type": "V",
-          "video": "https://12.webhd.ru/ddh1/premium557/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium557/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -655,7 +655,7 @@
         {
           "name": "UK",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy4/premium366/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium366/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1120,7 +1120,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy3/premium416/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium416/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1140,7 +1140,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy3/premium417/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium417/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1160,7 +1160,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddh1/premium418/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium418/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1180,7 +1180,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy3/premium419/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium419/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1195,7 +1195,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy3/premium420/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium420/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1210,7 +1210,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy3/premium421/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium421/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1225,7 +1225,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy3/premium422/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium422/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1245,7 +1245,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy3/premium423/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium423/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1260,7 +1260,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy3/premium424/tracks-v1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium424/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1280,7 +1280,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddh2/premium56/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium56/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1300,7 +1300,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddh2/premium368/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium368/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1315,7 +1315,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy3/premium572/tracks-v1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium572/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1335,7 +1335,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy3/premium413/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium413/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1355,7 +1355,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddh1/premium414/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium414/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1370,7 +1370,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddh1/premium415/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium415/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1390,7 +1390,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy3/premium412/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium412/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1405,7 +1405,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://01-24.webhd.ru/ddh2/premium453/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+          "video": "https://webudit.webhd.ru/lb/premium453/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1420,7 +1420,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://01-24.webhd.ru/ddh1/premium101/tracks-v1a1/mono.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+          "video": "https://webudit.webhd.ru/lb/premium101/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1435,7 +1435,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://01-24.webhd.ru/ddy4/premium103/tracks-v1a1/mono.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+          "video": "https://webudit.webhd.ru/lb/premium103/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1450,7 +1450,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://01-24.webhd.ru/fls/premium439/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+          "video": "https://webudit.webhd.ru/lb/premium439/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1465,7 +1465,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://01-24.webhd.ru/fls/premium440/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+          "video": "https://webudit.webhd.ru/lb/premium440/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1480,7 +1480,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://01-24.webhd.ru/fls/premium441/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+          "video": "https://webudit.webhd.ru/lb/premium441/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1495,7 +1495,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://01-24.webhd.ru/ddh1/premium78/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+          "video": "https://webudit.webhd.ru/lb/premium78/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1510,7 +1510,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://01-24.webhd.ru/ddh1/premium79/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+          "video": "https://webudit.webhd.ru/lb/premium79/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1525,7 +1525,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://01-24.webhd.ru/ddh2/premium80/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+          "video": "https://webudit.webhd.ru/lb/premium80/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1540,7 +1540,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://01-24.webhd.ru/ddy4/premium49/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+          "video": "https://webudit.webhd.ru/lb/premium49/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1555,7 +1555,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://01-24.webhd.ru/ddy5/premium74/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+          "video": "https://webudit.webhd.ru/lb/premium74/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1570,7 +1570,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://01-24.webhd.ru/ddy5/premium454/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+          "video": "https://webudit.webhd.ru/lb/premium454/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1585,7 +1585,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://01-24.webhd.ru/ddh1/premium290/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+          "video": "https://webudit.webhd.ru/lb/premium290/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1600,7 +1600,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://01-24.webhd.ru/ddh1/premium291/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+          "video": "https://webudit.webhd.ru/lb/premium291/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1615,12 +1615,12 @@
         {
           "name": "Poland",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy5/premium48/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium48/index.m3u8|Referer=https://weblivehdplay.ru/"
         },
         {
           "name": "France",
           "type": "V",
-          "video": "https://12.webhd.ru/ddh2/premium122/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium122/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1635,7 +1635,7 @@
         {
           "name": "Afrique",
           "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium486/index.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium486/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1650,12 +1650,12 @@
         {
           "name": "Afrique",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy5/premium487/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium487/index.m3u8|Referer=https://weblivehdplay.ru/"
         },
         {
           "name": "Poland",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy5/premium73/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium73/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1670,7 +1670,7 @@
         {
           "name": "Afrique",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy5/premium488/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium488/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1685,7 +1685,7 @@
         {
           "name": "Afrique",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy5/premium489/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium489/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1700,12 +1700,12 @@
         {
           "name": "Poland",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy4/premium75/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium75/index.m3u8|Referer=https://weblivehdplay.ru/"
         },
         {
           "name": " Afrique",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy5/premium490/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium490/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1720,12 +1720,12 @@
         {
           "name": "Poland",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy2/premium71/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium71/index.m3u8|Referer=https://weblivehdplay.ru/"
         },
         {
           "name": " Portugal",
           "type": "V",
-          "video": "https://12.webhd.ru/ddh1/premium455/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium455/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1740,12 +1740,12 @@
         {
           "name": "Poland",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy2/premium72/tracks-t1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium72/index.m3u8|Referer=https://weblivehdplay.ru/"
         },
         {
           "name": " Portugal",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy4/premium456/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium456/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1760,12 +1760,12 @@
         {
           "name": "Poland",
           "type": "V",
-          "video": "https://12.webhd.ru/ddh1/premium428/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium428/index.m3u8|Referer=https://weblivehdplay.ru/"
         },
         {
           "name": " Portugal",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy4/premium457/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium457/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1780,7 +1780,7 @@
         {
           "name": " Portugal",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy4/premium458/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium458/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1795,7 +1795,7 @@
         {
           "name": " Portugal",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy4/premium459/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium459/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1810,7 +1810,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://01-24.webhd.ru/ddh2/premium343/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+          "video": "https://webudit.webhd.ru/lb/premium343/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -1861,7 +1861,7 @@
         {
           "name": "Fox Cricket",
           "type": "V",
-          "video": "https://01-24.webhd.ru/ddy5/premium369/tracks-v1a1/mono.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+          "video": "https://webudit.webhd.ru/lb/premium369/index.m3u8|Referer=https://weblivehdplay.ru/"
         },
         {
           "name": "Ayna 1",
@@ -2095,7 +2095,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy5/premium614/tracks-a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium614/index.m3u8|Referer=https://weblivehdplay.ru/"
         },
         {
           "name": "Web 1",
@@ -2122,7 +2122,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy5/premium615/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium615/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -2143,7 +2143,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy5/premium616/playlist.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium616/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -2164,7 +2164,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy5/premium617/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium617/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -2185,7 +2185,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy5/premium618/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium618/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -2206,7 +2206,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy5/premium619/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium619/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -2227,7 +2227,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy5/premium620/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium620/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
@@ -2248,7 +2248,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://12.webhd.ru/ddy5/premium621/playlist.m3u8|referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium621/index.m3u8|Referer=https://weblivehdplay.ru/"
         }
       ]
     },
