@@ -141,6 +141,12 @@
           "type": "W",
           "host": "https://mhdworldtv.net/",
           "server": "https://entezeetv.fun/ayna/play.php?id=28"
+        },
+        {
+          "name": "Test",
+          "type": "W",
+          "host": "https://hd.cricfree.io/",
+          "server": "https://cricplay2.xyz/link3/sky-sports-main-event"
         }
       ]
     },
