@@ -1441,6 +1441,51 @@
       ]
     },
     {
+      "name": "Orange Sport 1",
+      "image": "https://i.ibb.co/cxb51Yn/orange-sports-1.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "Romania",
+      "language": "",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "video": "https://01-24.webhd.ru/fls/premium439/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        }
+      ]
+    },
+    {
+      "name": "Orange Sport 2",
+      "image": "https://i.ibb.co/Rj3C9QT/orange-sports-2.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "Romania",
+      "language": "",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "video": "https://01-24.webhd.ru/fls/premium440/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        }
+      ]
+    },
+    {
+      "name": "Orange Sport 3",
+      "image": "https://i.ibb.co/KqqbgwX/orange-sports-3.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "Romania",
+      "language": "",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "video": "https://01-24.webhd.ru/fls/premium441/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        }
+      ]
+    },
+    {
       "name": "Canal+ Sport",
       "image": "https://i.ibb.co/WgKt9kY/Canal-Sport.png",
       "category": "Sports",
