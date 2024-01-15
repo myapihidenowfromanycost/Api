@@ -1406,7 +1406,112 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://01-24.webhd.ru/ddh2/premium370/tracks-v1a1/mono.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+          "video": "https://01-24.webhd.ru/ddh1/premium101/tracks-v1a1/mono.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        }
+      ]
+    },
+    {
+      "name": "Sport Klub 1",
+      "image": "https://i.ibb.co/b18WcG6/astro-criciket.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "Bosnia",
+      "language": "",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "video": "https://01-24.webhd.ru/ddh1/premium101/tracks-v1a1/mono.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        }
+      ]
+    },
+    {
+      "name": "Sport Klub 2",
+      "image": "https://i.ibb.co/b18WcG6/astro-criciket.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "Bosnia",
+      "language": "",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "video": "https://01-24.webhd.ru/ddh1/premium102/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        }
+      ]
+    },
+    {
+      "name": "Sport Klub 3",
+      "image": "https://i.ibb.co/b18WcG6/astro-criciket.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "Bosnia",
+      "language": "",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "video": "https://01-24.webhd.ru/ddy4/premium103/tracks-v1a1/mono.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        }
+      ]
+    },
+    {
+      "name": "Sport Klub 4",
+      "image": "https://i.ibb.co/b18WcG6/astro-criciket.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "Bosnia",
+      "language": "",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "video": "https://01-24.webhd.ru/ddy4/premium104/tracks-v1a1/mono.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        }
+      ]
+    },
+    {
+      "name": "Sport Klub 5",
+      "image": "https://i.ibb.co/b18WcG6/astro-criciket.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "Bosnia",
+      "language": "",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "video": "https://01-24.webhd.ru/ddy5/premium105/tracks-v1a1/mono.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        }
+      ]
+    },
+    {
+      "name": "Sport Klub 6",
+      "image": "https://i.ibb.co/b18WcG6/astro-criciket.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "Bosnia",
+      "language": "",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "video": "https://01-24.webhd.ru/ddy2/premium25/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        }
+      ]
+    },
+    {
+      "name": "Sport Klub 7",
+      "image": "https://i.ibb.co/b18WcG6/astro-criciket.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "Bosnia",
+      "language": "",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "video": "https://01-24.webhd.ru/ddy2/premium26/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
         }
       ]
     },
