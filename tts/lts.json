@@ -604,7 +604,7 @@
     },
     {
       "name": "Sky sports Mix",
-      "image": "https://i.ibb.co/wg5M340/sky-sports-foodball.png",
+      "image": "https://i.ibb.co/K6Tt441/sky-sports-mix.png",
       "category": "Sports",
       "hot": "",
       "country": "us",
@@ -681,24 +681,23 @@
       ]
     },
     {
-      "name": "WILLOW Cricket",
-      "image": "https://i.ibb.co/cwZmjG0/willowcricket.jpg",
-      "category": "",
-      "hot": "true",
+      "name": "WILLOW XTRA",
+      "image": "https://i.ibb.co/92pYrJ8/willwo-xtra.png",
+      "category": "Sports",
+      "hot": "",
       "country": "us",
       "language": "",
       "myList": [
         {
-          "name": "Web 1",
-          "type": "W",
-          "host": "https://stream.crichd.vip/update/willowcricket.php",
-          "server": "http://lovesomecommunity.com/crichdv.php?player=desktop&live=willowusa"
+          "name": "Video",
+          "type": "V",
+          "video": "https://01-24.webhd.ru/esx3/premium598/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
         }
       ]
     },
     {
       "name": "WILLOW HD",
-      "image": "https://i.ibb.co/92pYrJ8/willwo-xtra.png",
+      "image": "https://i.ibb.co/nM6ddGC/willwo.png",
       "category": "Sports",
       "hot": "true",
       "country": "us",
