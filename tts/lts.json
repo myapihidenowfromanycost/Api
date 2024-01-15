@@ -468,6 +468,219 @@
       ]
     },
     {
+      "name": "SKY MainEvant",
+      "image": "https://i.ibb.co/7NbYYH9/sky-sports-main-evant.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "us",
+      "language": "",
+      "myList": [
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdworldtv.com/",
+          "server": "https://faketv.co.in/criclife/skymain.php"
+        },
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "getEmergency:https://bdappdevloper.000webhostapp.com/getLink.php?v=skysme"
+        }
+      ]
+    },
+    {
+      "name": "SkySports Golf",
+      "image": "https://i.ibb.co/KGnSGY0/sky-sports-goulf.jpg",
+      "category": "Sports",
+      "hot": "",
+      "country": "us",
+      "language": "",
+      "myList": [
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "getEmergency:https://bdappdevloper.000webhostapp.com/getLink.php?v=skysgol"
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdworldtv.com/",
+          "server": "https://faketv.co.in/criclife/skygolf.php"
+        },
+        {
+          "name": "UK",
+          "type": "V",
+          "video": "https://12.webhd.ru/ddy4/premium70/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+        }
+      ]
+    },
+    {
+      "name": "Sky Sports Primiar",
+      "image": "https://i.ibb.co/qkmdFvr/sky-sports-primiar-luge.jpg",
+      "category": "Sports",
+      "hot": "",
+      "country": "us",
+      "language": "",
+      "myList": [
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "getEmergency:https://bdappdevloper.000webhostapp.com/getLink.php?v=skysprem"
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdworldtv.com/",
+          "server": "https://faketv.co.in/criclife/skyepl.php"
+        },
+        {
+          "name": "Video",
+          "type": "V",
+          "video": "https://12.webhd.ru/ddy3/premium130/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+        }
+      ]
+    },
+    {
+      "name": "Sky Sports Foodball",
+      "image": "https://i.ibb.co/wg5M340/sky-sports-foodball.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "us",
+      "language": "",
+      "myList": [
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "getEmergency:https://bdappdevloper.000webhostapp.com/getLink.php?v=skysfott"
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdworldtv.com/",
+          "server": "https://faketv.co.in/criclife/skyfootball.php"
+        },
+        {
+          "name": "UK",
+          "type": "V",
+          "video": "https://12.webhd.ru/esx3/premium35/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+        },
+        {
+          "name": "Italy",
+          "type": "V",
+          "video": "https://12.webhd.ru/ddy3/premium460/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+        }
+      ]
+    },
+    {
+      "name": "Sky Sports arena",
+      "image": "https://i.ibb.co/P5zcsJq/sky-sports-arena.png",
+      "category": "",
+      "hot": "",
+      "country": "us",
+      "language": "",
+      "myList": [
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "getEmergency:https://bdappdevloper.000webhostapp.com/getLink.php?v=skysare"
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://crichd.vip/cha10-manchester-city-live-stream",
+          "server": "http://stream.crichd.vip/update/skysarena.php"
+        },
+        {
+          "name": "Uk",
+          "type": "V",
+          "video": "https://12.webhd.ru/esx3/premium60/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+        },
+        {
+          "name": "Italy",
+          "type": "V",
+          "video": "https://12.webhd.ru/ddy5/premium462/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+        }
+      ]
+    },
+    {
+      "name": "Sky sports Mix",
+      "image": "https://i.ibb.co/wg5M340/sky-sports-foodball.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "us",
+      "language": "",
+      "myList": [
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "getEmergency:https://bdappdevloper.000webhostapp.com/getLink.php?v=skysmixx"
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdworldtv.com/",
+          "server": "https://faketv.co.in/criclife/skymix.php"
+        },
+        {
+          "name": "UK",
+          "type": "V",
+          "video": "https://12.webhd.ru/ddy5/premium449/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+        },
+        {
+          "name": "DE",
+          "type": "V",
+          "video": "https://12.webhd.ru/ddh1/premium557/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+        }
+      ]
+    },
+    {
+      "name": "Sky Sports News",
+      "image": "https://i.ibb.co/tsSRZnJ/sky-sports-news.jpg",
+      "category": "",
+      "hot": "",
+      "country": "us",
+      "language": "",
+      "myList": [
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "getEmergency:https://bdappdevloper.000webhostapp.com/getLink.php?v=skysnewsuk"
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://crichd.vip/cha10-manchester-city-live-stream",
+          "server": "http://stream.crichd.vip/update/skysn.php"
+        },
+        {
+          "name": "UK",
+          "type": "V",
+          "video": "https://12.webhd.ru/ddy4/premium366/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+        }
+      ]
+    },
+    {
+      "name": "Sky Sports Action",
+      "image": "https://i.ibb.co/C7TTHmh/sky-sports-action.png",
+      "category": "",
+      "hot": "",
+      "country": "us",
+      "language": "",
+      "myList": [
+        {
+          "name": "Link 1",
+          "type": "V",
+          "video": "getEmergency:https://bdappdevloper.000webhostapp.com/getLink.php?v=skysact"
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://crichd.vip/cha10-manchester-city-live-stream",
+          "server": "http://stream.crichd.vip/update/skys3.php"
+        }
+      ]
+    },
+    {
       "name": "WILLOW Cricket",
       "image": "https://i.ibb.co/cwZmjG0/willowcricket.jpg",
       "category": "",
@@ -893,219 +1106,6 @@
       ]
     },
     {
-      "name": "SKY MainEvant",
-      "image": "https://i.ibb.co/7NbYYH9/sky-sports-main-evant.png",
-      "category": "Sports",
-      "hot": "",
-      "country": "us",
-      "language": "",
-      "myList": [
-        {
-          "name": "Web 1",
-          "type": "W",
-          "host": "https://mhdworldtv.com/",
-          "server": "https://faketv.co.in/criclife/skymain.php"
-        },
-        {
-          "name": "Link 1",
-          "type": "V",
-          "video": "getEmergency:https://bdappdevloper.000webhostapp.com/getLink.php?v=skysme"
-        }
-      ]
-    },
-    {
-      "name": "SkySports Golf",
-      "image": "https://i.ibb.co/KGnSGY0/sky-sports-goulf.jpg",
-      "category": "Sports",
-      "hot": "",
-      "country": "us",
-      "language": "",
-      "myList": [
-        {
-          "name": "Link 1",
-          "type": "V",
-          "video": "getEmergency:https://bdappdevloper.000webhostapp.com/getLink.php?v=skysgol"
-        },
-        {
-          "name": "Web 1",
-          "type": "W",
-          "host": "https://mhdworldtv.com/",
-          "server": "https://faketv.co.in/criclife/skygolf.php"
-        },
-        {
-          "name": "UK",
-          "type": "V",
-          "video": "https://12.webhd.ru/ddy4/premium70/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
-        }
-      ]
-    },
-    {
-      "name": "Sky Sports Primiar",
-      "image": "https://i.ibb.co/qkmdFvr/sky-sports-primiar-luge.jpg",
-      "category": "Sports",
-      "hot": "",
-      "country": "us",
-      "language": "",
-      "myList": [
-        {
-          "name": "Link 1",
-          "type": "V",
-          "video": "getEmergency:https://bdappdevloper.000webhostapp.com/getLink.php?v=skysprem"
-        },
-        {
-          "name": "Web 1",
-          "type": "W",
-          "host": "https://mhdworldtv.com/",
-          "server": "https://faketv.co.in/criclife/skyepl.php"
-        },
-        {
-          "name": "Video",
-          "type": "V",
-          "video": "https://12.webhd.ru/ddy3/premium130/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
-        }
-      ]
-    },
-    {
-      "name": "Sky Sports Foodball",
-      "image": "https://i.ibb.co/wg5M340/sky-sports-foodball.png",
-      "category": "Sports",
-      "hot": "",
-      "country": "us",
-      "language": "",
-      "myList": [
-        {
-          "name": "Link 1",
-          "type": "V",
-          "video": "getEmergency:https://bdappdevloper.000webhostapp.com/getLink.php?v=skysfott"
-        },
-        {
-          "name": "Web 1",
-          "type": "W",
-          "host": "https://mhdworldtv.com/",
-          "server": "https://faketv.co.in/criclife/skyfootball.php"
-        },
-        {
-          "name": "UK",
-          "type": "V",
-          "video": "https://12.webhd.ru/esx3/premium35/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
-        },
-        {
-          "name": "Italy",
-          "type": "V",
-          "video": "https://12.webhd.ru/ddy3/premium460/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
-        }
-      ]
-    },
-    {
-      "name": "Sky Sports arena",
-      "image": "https://i.ibb.co/P5zcsJq/sky-sports-arena.png",
-      "category": "",
-      "hot": "",
-      "country": "us",
-      "language": "",
-      "myList": [
-        {
-          "name": "Link 1",
-          "type": "V",
-          "video": "getEmergency:https://bdappdevloper.000webhostapp.com/getLink.php?v=skysare"
-        },
-        {
-          "name": "Web 1",
-          "type": "W",
-          "host": "https://crichd.vip/cha10-manchester-city-live-stream",
-          "server": "http://stream.crichd.vip/update/skysarena.php"
-        },
-        {
-          "name": "Uk",
-          "type": "V",
-          "video": "https://12.webhd.ru/esx3/premium60/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
-        },
-        {
-          "name": "Italy",
-          "type": "V",
-          "video": "https://12.webhd.ru/ddy5/premium462/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
-        }
-      ]
-    },
-    {
-      "name": "Sky sports Mix",
-      "image": "https://i.ibb.co/wg5M340/sky-sports-foodball.png",
-      "category": "Sports",
-      "hot": "",
-      "country": "us",
-      "language": "",
-      "myList": [
-        {
-          "name": "Link 1",
-          "type": "V",
-          "video": "getEmergency:https://bdappdevloper.000webhostapp.com/getLink.php?v=skysmixx"
-        },
-        {
-          "name": "Web 1",
-          "type": "W",
-          "host": "https://mhdworldtv.com/",
-          "server": "https://faketv.co.in/criclife/skymix.php"
-        },
-        {
-          "name": "UK",
-          "type": "V",
-          "video": "https://12.webhd.ru/ddy5/premium449/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
-        },
-        {
-          "name": "DE",
-          "type": "V",
-          "video": "https://12.webhd.ru/ddh1/premium557/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
-        }
-      ]
-    },
-    {
-      "name": "Sky Sports News",
-      "image": "https://i.ibb.co/tsSRZnJ/sky-sports-news.jpg",
-      "category": "",
-      "hot": "",
-      "country": "us",
-      "language": "",
-      "myList": [
-        {
-          "name": "Link 1",
-          "type": "V",
-          "video": "getEmergency:https://bdappdevloper.000webhostapp.com/getLink.php?v=skysnewsuk"
-        },
-        {
-          "name": "Web 1",
-          "type": "W",
-          "host": "https://crichd.vip/cha10-manchester-city-live-stream",
-          "server": "http://stream.crichd.vip/update/skysn.php"
-        },
-        {
-          "name": "UK",
-          "type": "V",
-          "video": "https://12.webhd.ru/ddy4/premium366/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
-        }
-      ]
-    },
-    {
-      "name": "Sky Sports Action",
-      "image": "https://i.ibb.co/C7TTHmh/sky-sports-action.png",
-      "category": "",
-      "hot": "",
-      "country": "us",
-      "language": "",
-      "myList": [
-        {
-          "name": "Link 1",
-          "type": "V",
-          "video": "getEmergency:https://bdappdevloper.000webhostapp.com/getLink.php?v=skysact"
-        },
-        {
-          "name": "Web 1",
-          "type": "W",
-          "host": "https://crichd.vip/cha10-manchester-city-live-stream",
-          "server": "http://stream.crichd.vip/update/skys3.php"
-        }
-      ]
-    },
-    {
       "name": "SuperSport Variety 1",
       "image": "https://i.ibb.co/TH8p5ZS/super-sport-variety1.png",
       "category": "Sports",
@@ -1392,6 +1392,21 @@
           "name": "Video",
           "type": "V",
           "video": "https://12.webhd.ru/ddy3/premium412/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/"
+        }
+      ]
+    },
+    {
+      "name": "Sport Klub 1",
+      "image": "https://i.ibb.co/b18WcG6/astro-criciket.png",
+      "category": "Sports",
+      "hot": "",
+      "country": "Bosnia",
+      "language": "",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "video": "https://01-24.webhd.ru/ddh2/premium370/tracks-v1a1/mono.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
         }
       ]
     },
