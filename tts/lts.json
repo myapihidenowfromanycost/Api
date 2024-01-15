@@ -5837,6 +5837,21 @@
       ]
     },
     {
+      "name": "Disney XD",
+      "image": "https://i.ibb.co/dPThRSc/discovery-xd.png",
+      "category": "kids",
+      "hot": "true",
+      "country": "us",
+      "language": "en",
+      "myList": [
+        {
+          "name": "Video",
+          "type": "V",
+          "video": "https://01-24.webhd.ru/ddh2/premium378/playlist.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        }
+      ]
+    },
+    {
       "name": "Nick Jr",
       "image": "https://images.toffeelive.com/images/program/2435/logo/240x240/mobile_logo_910829001655891932.png",
       "category": "kids",
