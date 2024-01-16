@@ -7965,6 +7965,3078 @@
       "country": "",
       "language": "",
       "myList": [
+        {
+          "name": "Video",
+          "test": "Astro SuperSport 1",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium123/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Astro SuperSport 2",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium124/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Astro SuperSport 3",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium125/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Astro SuperSport 4",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium126/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 1 Premium",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium134/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 2 Premium",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium135/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 3 Premium",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium139/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 1 Serbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium429/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 2 Serbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium430/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 3 Serbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium431/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 4 Serbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium581/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 1 Croatia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium432/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 2 Croatia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium433/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 3 Croatia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium434/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 4 Croatia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium580/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 1 BiH",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium579/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Abu Dhabi Sports 1 UAE",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium600/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Abu Dhabi Sports 2 UAE",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium601/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Abu Dhabi Sports 1 Premium",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium609/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Abu Dhabi Sports 2 Premium",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium610/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA English 1",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium61/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA English 2",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium90/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA English 3",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium46/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA 1",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium91/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA 2",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium92/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA 3",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium93/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA 4",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium94/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA 5",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium95/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA 6",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium96/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA 7",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium97/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA Premium 1",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium98/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA Premium 2",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium99/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA Premium 3",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium100/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MAX 4 France",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium494/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MAX 5 France",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium495/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MAX 6 France",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium496/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MAX 7 France",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium497/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MAX 8 France",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium498/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MAX 9 France",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium499/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MAX 10 France",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium500/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "BeIN Sports HD Qatar",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium578/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "CBS Sports Network (CBSSN)",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium308/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Canal+ Sport France",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium122/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Canal+ Sport360",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium464/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Canal+ Sport Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium48/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Canal+ Sport 2 Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium73/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Canal+ Sport 1 Afrique",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium486/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Canal+ Sport 2 Afrique",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium487/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Canal+ Sport 3 Afrique",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium488/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Canal+ Sport 4 Afrique",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium489/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Canal+ Sport 5 Afrique",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium490/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Cosmote Sport 1 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium622/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Cosmote Sport 2 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium623/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Cosmote Sport 3 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium624/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Cosmote Sport 4 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium625/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Cosmote Sport 5 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium626/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Cosmote Sport 6 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium627/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Cosmote Sport 7 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium628/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Cosmote Sport 8 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium629/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Cosmote Sport 9 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium630/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Digi Sport 1 Romania",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium400/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Digi Sport 2 Romania",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium401/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Digi Sport 3 Romania",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium402/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Digi Sport 4 Romania",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium403/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Diema Sport Bulgaria",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium465/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Diema Sport 2 Bulgaria",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium466/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Diema Sport 3 Bulgaria",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium467/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Dubai Sports 1 UAE",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium604/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Dubai Sports 2 UAE",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium605/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Dubai Sports 3 UAE",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium606/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Eleven Sports 1 Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium71/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Eleven Sports 2 Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium72/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Eleven Sports 3 Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium428/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Eleven Sports 1 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium455/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Eleven Sports 2 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium456/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Eleven Sports 3 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium457/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Eleven Sports 4 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium458/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Eleven Sports 5 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium459/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "EuroSport 1 UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium41/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "EuroSport 2 UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium42/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "EuroSport 1 Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium57/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "EuroSport 2 Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium58/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "EuroSport 1 Spain",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium524/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "EuroSport 2 Spain",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium525/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "EuroSport 1 Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium878/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "EuroSport 2 Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium879/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Eurosport 1 Bulgaria",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium469/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Eurosport 2 Bulgaria",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium470/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Fox Sports 1 USA",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium39/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Fox Sports 2 USA",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium758/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "FOX Sports 502 AU",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium820/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "FOX Sports 503 AU",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium821/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "FOX Sports 504 AU",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium822/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "FOX Sports 505 AU",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium823/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "FOX Sports 506 AU",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium824/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "FOX Sports 507 AU",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium825/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Fox Sports Argentina",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium767/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Fox Sports 2 Argentina",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium788/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Fox Sports 3 Argentina",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium789/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Fox Sports Premium MX",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium830/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Max Sport 1 Croatia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium779/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Max Sport 2 Croatia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium780/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Marquee Sports Network",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium770/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Max Sport 1 Bulgaria",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium472/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Max Sport 2 Bulgaria",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium473/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Max Sport 3 Bulgaria",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium474/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Max Sport 4 Bulgaria",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium475/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sport Bulgaria",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium468/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sport Serbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium582/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sports 1 Greece",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium631/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sports 2 Greece",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium632/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sports 3 Greece",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium633/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sports 4 Greece",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium634/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sports 5 Greece",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium635/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sports 6 Greece",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium636/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sports Premier League Greece",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium599/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sports Start Greece",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium637/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sports Prime Greece",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium638/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sports News Greece",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium639/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "NBC Sports Chicago",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium776/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "NBC Sports Philadelphia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium777/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "NBC Sports Washington",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium778/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "NBC Sports Bay Area",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium753/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "NBC Sports Boston",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium754/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "NBC Sports California",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium755/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "OnTime Sports",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium611/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "OnTime Sports 2",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium612/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Orange Sport 1 Romania",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium439/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Orange Sport 2 Romania",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium440/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Orange Sport 3 Romania",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium441/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Orange Sport 4 Romania",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium442/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Polsat Sport Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium47/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Polsat Sport Extra Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium50/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Polsat Sport News Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium129/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "PTV Sports",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium450/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Prima Sport 1",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium583/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Prima Sport 2",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium584/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Prima Sport 3",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium585/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Prima Sport 4",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium586/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "RMC Sport 1 France",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium119/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "RMC Sport 2 France",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium120/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Rai Sport Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium882/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports Football UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium35/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports Arena UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium36/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports Action UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium37/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports Main Event",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium38/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky sports Premier League",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium130/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports F1 UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium60/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports Cricket",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium65/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports Golf UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium70/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports Golf Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium574/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport MotoGP Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium575/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport Tennis Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium576/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport F1 Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium577/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports News UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium366/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports MIX UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium449/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport Top Event DE",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium556/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport Mix DE",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium557/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport Bundesliga 1 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium558/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport Austria 1 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium559/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SportsNet New York (SNY)",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium759/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport Football Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium460/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport UNO Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium461/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport Arena Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium462/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports Racing UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium554/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport 1 NZ",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium588/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport 2 NZ",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium589/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport 3 NZ",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium590/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport 4 NZ",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium591/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport 5 NZ",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium592/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport 6 NZ",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium593/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport 7 NZ",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium594/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport 8 NZ",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium595/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport 9 NZ",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium596/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport Select NZ",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium587/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport TV1 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium49/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport TV2 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium74/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport TV4 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium289/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport TV3 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium454/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport TV5 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium290/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport TV6 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium291/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SporTV Brasil",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium78/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SporTV2 Brasil",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium79/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SporTV3 Brasil",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium80/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport Klub 1 Serbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium101/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport Klub 2 Serbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium102/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport Klub 3 Serbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium103/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport Klub 4 Serbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium104/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport Klub HD Serbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium453/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sportsnet Ontario",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium406/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sportsnet One",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium411/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sportsnet West",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium407/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sportsnet East",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium408/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sportsnet 360",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium409/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sportsnet World",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium410/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Grandstand",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium412/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport PSL",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium413/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Premier league",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium414/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport LaLiga",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium415/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Variety 1",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium416/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Variety 2",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium417/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Variety 3",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium418/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Variety 4",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium419/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Action",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium420/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Rugby",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium421/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Golf",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium422/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Tennis",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium423/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Motorsport",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium424/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Supersport Football",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium56/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Cricket",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium368/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport MaXimo 1",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium572/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sporting TV Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium716/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SportDigital Fussball",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium571/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Spectrum Sportsnet LA",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium764/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport1+ Germany",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium640/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport1 Germany",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium641/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport 24 Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium869/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport Calcio Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium870/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SSC Sport 1",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium614/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SSC Sport 2",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium615/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SSC Sport 3",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium616/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SSC Sport 4",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium617/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SSC Sport 5",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium618/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SSC Sport Extra 1",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium619/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SSC Sport Extra 2",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium620/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SSC Sport Extra 3",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium621/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport 1 Israel",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium140/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport 2 Israel",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium141/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport 3 Israel",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium142/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport 4 Israel",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium143/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport 5 Israel",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium144/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport 5 PLUS Israel",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium145/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport 5 Live Israel",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium146/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport 5 Star Israel",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium147/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport 5 Gold Israel",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium148/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TNT Sports 1 UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium31/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TNT Sports 2 UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium32/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TNT Sports 3 UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium33/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TNT Sports 4 UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium34/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TYC Sports Argentina",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium746/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TVP Sport Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium128/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TNT Sports Argentina",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium388/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TNT Sports HD Chile",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium642/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Ten Sports PK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium741/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TVA Sports",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium833/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TVA Sports 2",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium834/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TV2 Sport X Denmark",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium808/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TV3 Sport Denmark",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium809/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TV2 Sport Denmark",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium810/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Viaplay Sports 1 UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium451/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Viaplay Sports 2 UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium550/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Win Sports+ Columbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium392/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Ziggo Sport Docu NL",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium383/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Ziggo Sport Select NL",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium393/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Ziggo Sport Racing NL",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium396/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Ziggo Sport Voetbal NL",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium398/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Astro SuperSport 1",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium123/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Astro SuperSport 2",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium124/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Astro SuperSport 3",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium125/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Astro SuperSport 4",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium126/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 1 Premium",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium134/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 2 Premium",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium135/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 3 Premium",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium139/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 1 Serbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium429/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 2 Serbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium430/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 3 Serbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium431/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 4 Serbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium581/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 1 Croatia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium432/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 2 Croatia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium433/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 3 Croatia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium434/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 4 Croatia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium580/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Arena Sport 1 BiH",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium579/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Abu Dhabi Sports 1 UAE",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium600/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Abu Dhabi Sports 2 UAE",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium601/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Abu Dhabi Sports 1 Premium",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium609/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Abu Dhabi Sports 2 Premium",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium610/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA English 1",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium61/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA English 2",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium90/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA English 3",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium46/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA 1",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium91/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA 2",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium92/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA 3",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium93/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA 4",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium94/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA 5",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium95/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA 6",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium96/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA 7",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium97/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA Premium 1",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium98/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA Premium 2",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium99/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MENA Premium 3",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium100/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MAX 4 France",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium494/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MAX 5 France",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium495/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MAX 6 France",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium496/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MAX 7 France",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium497/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MAX 8 France",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium498/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MAX 9 France",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium499/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "beIN Sports MAX 10 France",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium500/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "BeIN Sports HD Qatar",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium578/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "CBS Sports Network (CBSSN)",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium308/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Canal+ Sport France",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium122/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Canal+ Sport360",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium464/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Canal+ Sport Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium48/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Canal+ Sport 2 Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium73/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Canal+ Sport 1 Afrique",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium486/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Canal+ Sport 2 Afrique",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium487/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Canal+ Sport 3 Afrique",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium488/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Canal+ Sport 4 Afrique",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium489/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Canal+ Sport 5 Afrique",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium490/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Cosmote Sport 1 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium622/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Cosmote Sport 2 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium623/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Cosmote Sport 3 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium624/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Cosmote Sport 4 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium625/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Cosmote Sport 5 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium626/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Cosmote Sport 6 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium627/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Cosmote Sport 7 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium628/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Cosmote Sport 8 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium629/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Cosmote Sport 9 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium630/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Digi Sport 1 Romania",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium400/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Digi Sport 2 Romania",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium401/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Digi Sport 3 Romania",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium402/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Digi Sport 4 Romania",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium403/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Diema Sport Bulgaria",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium465/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Diema Sport 2 Bulgaria",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium466/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Diema Sport 3 Bulgaria",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium467/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Dubai Sports 1 UAE",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium604/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Dubai Sports 2 UAE",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium605/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Dubai Sports 3 UAE",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium606/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Eleven Sports 1 Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium71/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Eleven Sports 2 Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium72/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Eleven Sports 3 Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium428/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Eleven Sports 1 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium455/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Eleven Sports 2 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium456/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Eleven Sports 3 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium457/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Eleven Sports 4 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium458/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Eleven Sports 5 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium459/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "EuroSport 1 UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium41/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "EuroSport 2 UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium42/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "EuroSport 1 Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium57/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "EuroSport 2 Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium58/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "EuroSport 1 Spain",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium524/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "EuroSport 2 Spain",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium525/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "EuroSport 1 Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium878/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "EuroSport 2 Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium879/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Eurosport 1 Bulgaria",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium469/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Eurosport 2 Bulgaria",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium470/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Fox Sports 1 USA",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium39/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Fox Sports 2 USA",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium758/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "FOX Sports 502 AU",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium820/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "FOX Sports 503 AU",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium821/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "FOX Sports 504 AU",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium822/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "FOX Sports 505 AU",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium823/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "FOX Sports 506 AU",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium824/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "FOX Sports 507 AU",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium825/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Fox Sports Argentina",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium767/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Fox Sports 2 Argentina",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium788/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Fox Sports 3 Argentina",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium789/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Fox Sports Premium MX",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium830/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Max Sport 1 Croatia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium779/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Max Sport 2 Croatia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium780/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Marquee Sports Network",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium770/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Max Sport 1 Bulgaria",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium472/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Max Sport 2 Bulgaria",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium473/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Max Sport 3 Bulgaria",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium474/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Max Sport 4 Bulgaria",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium475/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sport Bulgaria",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium468/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sport Serbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium582/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sports 1 Greece",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium631/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sports 2 Greece",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium632/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sports 3 Greece",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium633/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sports 4 Greece",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium634/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sports 5 Greece",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium635/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sports 6 Greece",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium636/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sports Premier League Greece",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium599/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sports Start Greece",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium637/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sports Prime Greece",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium638/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Nova Sports News Greece",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium639/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "NBC Sports Chicago",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium776/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "NBC Sports Philadelphia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium777/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "NBC Sports Washington",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium778/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "NBC Sports Bay Area",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium753/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "NBC Sports Boston",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium754/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "NBC Sports California",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium755/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "OnTime Sports",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium611/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "OnTime Sports 2",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium612/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Orange Sport 1 Romania",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium439/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Orange Sport 2 Romania",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium440/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Orange Sport 3 Romania",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium441/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Orange Sport 4 Romania",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium442/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Polsat Sport Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium47/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Polsat Sport Extra Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium50/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Polsat Sport News Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium129/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "PTV Sports",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium450/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Prima Sport 1",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium583/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Prima Sport 2",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium584/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Prima Sport 3",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium585/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Prima Sport 4",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium586/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "RMC Sport 1 France",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium119/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "RMC Sport 2 France",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium120/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Rai Sport Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium882/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports Football UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium35/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports Arena UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium36/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports Action UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium37/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports Main Event",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium38/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky sports Premier League",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium130/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports F1 UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium60/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports Cricket",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium65/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports Golf UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium70/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports Golf Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium574/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport MotoGP Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium575/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport Tennis Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium576/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport F1 Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium577/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports News UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium366/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports MIX UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium449/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport Top Event DE",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium556/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport Mix DE",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium557/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport Bundesliga 1 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium558/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport Austria 1 HD",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium559/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SportsNet New York (SNY)",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium759/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport Football Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium460/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport UNO Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium461/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport Arena Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium462/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sports Racing UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium554/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport 1 NZ",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium588/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport 2 NZ",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium589/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport 3 NZ",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium590/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport 4 NZ",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium591/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport 5 NZ",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium592/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport 6 NZ",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium593/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport 7 NZ",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium594/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport 8 NZ",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium595/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport 9 NZ",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium596/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport Select NZ",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium587/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport TV1 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium49/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport TV2 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium74/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport TV4 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium289/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport TV3 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium454/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport TV5 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium290/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport TV6 Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium291/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SporTV Brasil",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium78/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SporTV2 Brasil",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium79/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SporTV3 Brasil",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium80/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport Klub 1 Serbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium101/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport Klub 2 Serbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium102/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport Klub 3 Serbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium103/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport Klub 4 Serbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium104/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport Klub HD Serbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium453/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sportsnet Ontario",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium406/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sportsnet One",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium411/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sportsnet West",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium407/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sportsnet East",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium408/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sportsnet 360",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium409/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sportsnet World",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium410/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Grandstand",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium412/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport PSL",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium413/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Premier league",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium414/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport LaLiga",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium415/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Variety 1",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium416/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Variety 2",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium417/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Variety 3",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium418/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Variety 4",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium419/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Action",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium420/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Rugby",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium421/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Golf",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium422/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Tennis",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium423/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Motorsport",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium424/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Supersport Football",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium56/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport Cricket",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium368/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SuperSport MaXimo 1",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium572/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sporting TV Portugal",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium716/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SportDigital Fussball",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium571/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Spectrum Sportsnet LA",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium764/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport1+ Germany",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium640/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport1 Germany",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium641/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport 24 Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium869/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sky Sport Calcio Italy",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium870/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SSC Sport 1",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium614/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SSC Sport 2",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium615/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SSC Sport 3",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium616/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SSC Sport 4",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium617/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SSC Sport 5",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium618/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SSC Sport Extra 1",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium619/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SSC Sport Extra 2",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium620/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "SSC Sport Extra 3",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium621/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport 1 Israel",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium140/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport 2 Israel",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium141/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport 3 Israel",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium142/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport 4 Israel",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium143/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport 5 Israel",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium144/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport 5 PLUS Israel",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium145/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport 5 Live Israel",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium146/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport 5 Star Israel",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium147/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Sport 5 Gold Israel",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium148/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TNT Sports 1 UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium31/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TNT Sports 2 UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium32/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TNT Sports 3 UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium33/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TNT Sports 4 UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium34/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TYC Sports Argentina",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium746/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TVP Sport Poland",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium128/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TNT Sports Argentina",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium388/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TNT Sports HD Chile",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium642/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Ten Sports PK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium741/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TVA Sports",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium833/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TVA Sports 2",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium834/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TV2 Sport X Denmark",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium808/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TV3 Sport Denmark",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium809/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "TV2 Sport Denmark",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium810/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Viaplay Sports 1 UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium451/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Viaplay Sports 2 UK",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium550/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Win Sports+ Columbia",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium392/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Ziggo Sport Docu NL",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium383/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Ziggo Sport Select NL",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium393/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Ziggo Sport Racing NL",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium396/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        },
+        {
+          "name": "Video",
+          "test": "Ziggo Sport Voetbal NL",
+          "type": "V",
+          "video": "https://webudit.webhd.ru/lb/premium398/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
+        }
       ]
     }
   ]
