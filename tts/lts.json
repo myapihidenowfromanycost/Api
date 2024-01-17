@@ -272,7 +272,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium123/index.m3u8|Referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium123/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
         }
       ]
     },
@@ -287,7 +287,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium124/index.m3u8|Referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium124/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
         }
       ]
     },
@@ -302,7 +302,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium125/index.m3u8|Referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium125/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
         }
       ]
     },
@@ -317,7 +317,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium126/index.m3u8|Referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium126/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
         }
       ]
     },
@@ -850,7 +850,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium134/index.m3u8|Referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium134/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
         }
       ]
     },
@@ -865,7 +865,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium134/index.m3u8|Referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium135/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
         }
       ]
     },
@@ -880,7 +880,7 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium139/index.m3u8|Referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium139/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
         }
       ]
     },
@@ -895,12 +895,12 @@
         {
           "name": "Serbia",
           "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium429/index.m3u8|Referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium429/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
         },
         {
           "name": "Croatia",
           "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium432/index.m3u8|Referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium432/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
         }
       ]
     },
@@ -915,12 +915,12 @@
         {
           "name": "Serbia",
           "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium430/index.m3u8|Referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium430/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
         },
         {
           "name": "Croatia",
           "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium433/index.m3u8|Referer=https://weblivehdplay.ru/"
+          "video": "https://webudit.webhd.ru/lb/premium433/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
         }
       ]
     },
@@ -7967,54 +7967,6 @@
       "myList": [
         {
           "name": "Video",
-          "test": "Astro SuperSport 1",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium123/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "Astro SuperSport 2",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium124/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "Astro SuperSport 3",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium125/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "Astro SuperSport 4",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium126/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "Arena Sport 1 Premium",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium134/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "Arena Sport 2 Premium",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium135/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "Arena Sport 3 Premium",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium139/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "Arena Sport 1 Serbia",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium429/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
           "test": "Arena Sport 2 Serbia",
           "type": "V",
           "video": "https://webudit.webhd.ru/lb/premium430/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
@@ -8030,12 +7982,6 @@
           "test": "Arena Sport 4 Serbia",
           "type": "V",
           "video": "https://webudit.webhd.ru/lb/premium581/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "Arena Sport 1 Croatia",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium432/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
         },
         {
           "name": "Video",
