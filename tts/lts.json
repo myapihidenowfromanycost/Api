@@ -7967,48 +7967,6 @@
       "myList": [
         {
           "name": "Video",
-          "test": "Arena Sport 2 Serbia",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium430/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "Arena Sport 3 Serbia",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium431/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "Arena Sport 4 Serbia",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium581/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "Arena Sport 2 Croatia",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium433/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "Arena Sport 3 Croatia",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium434/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "Arena Sport 4 Croatia",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium580/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "Arena Sport 1 BiH",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium579/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
           "test": "Abu Dhabi Sports 1 UAE",
           "type": "V",
           "video": "https://webudit.webhd.ru/lb/premium600/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
@@ -8030,66 +7988,6 @@
           "test": "Abu Dhabi Sports 2 Premium",
           "type": "V",
           "video": "https://webudit.webhd.ru/lb/premium610/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "beIN Sports MENA English 1",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium61/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "beIN Sports MENA English 2",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium90/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "beIN Sports MENA English 3",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium46/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "beIN Sports MENA 1",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium91/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "beIN Sports MENA 2",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium92/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "beIN Sports MENA 3",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium93/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "beIN Sports MENA 4",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium94/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "beIN Sports MENA 5",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium95/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "beIN Sports MENA 6",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium96/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
-        },
-        {
-          "name": "Video",
-          "test": "beIN Sports MENA 7",
-          "type": "V",
-          "video": "https://webudit.webhd.ru/lb/premium97/index.m3u8|Referer=https://weblivehdplay.ru/|Origin=https://weblivehdplay.ru"
         },
         {
           "name": "Video",
