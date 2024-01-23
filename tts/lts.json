@@ -123,12 +123,12 @@
         {
           "name": "T Sports 1",
           "type": "V",
-          "video": "https://live-cdn.tsports.com/live-01/index.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1705989926:KeyName=tsports-ed25519-01:Signature=t7FQg9X25vq_XTn8M6EXAM87pQPFcg88WZ5iORWcy1_0QJjwHEFL9TdTZUVSCdjfwx2rZkcXvINWfucfPU8qBw"
+          "video": "https://live-cdn.tsports.com/live-01/index.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1706074560:KeyName=tsports-ed25519-01:Signature=HZuIs2Lf0OYSLFm3onbJNB1fCkgqFo5MU15_KWsq3vrMainiZ7qGBgRA31QnJ5K3PLNb9mL2uflCyr0K-HfUBw"
         },
         {
           "name": "T Sports 2",
           "type": "V",
-          "video": "https://live-cdn.tsports.com/live-02/index.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1705989926:KeyName=tsports-ed25519-01:Signature=t7FQg9X25vq_XTn8M6EXAM87pQPFcg88WZ5iORWcy1_0QJjwHEFL9TdTZUVSCdjfwx2rZkcXvINWfucfPU8qBw"
+          "video": "https://live-cdn.tsports.com/live-02/index.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1706074560:KeyName=tsports-ed25519-01:Signature=HZuIs2Lf0OYSLFm3onbJNB1fCkgqFo5MU15_KWsq3vrMainiZ7qGBgRA31QnJ5K3PLNb9mL2uflCyr0K-HfUBw"
         },
         {
           "name": "Web 1",
