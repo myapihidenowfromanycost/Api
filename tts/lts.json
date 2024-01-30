@@ -7176,6 +7176,33 @@
       ]
     },
     {
+      "name": "Colors Cineplex SuperHit",
+      "image": "https://mhdtvworld.co.in/wp-content/uploads/2022/07/cplexcine.webp",
+      "category": "movie",
+      "hot": "",
+      "country": "india",
+      "language": "hi",
+      "myList": [
+        {
+          "name": "Voot",
+          "type": "V",
+          "video": "https://prod-sports-cohort-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8"
+        },
+        {
+          "name": "Web 1",
+          "type": "W",
+          "host": "https://mhdworldtv.net/",
+          "server": "https://livevoot.co.in/project/play.php?id=Rishtey_Cineplex_voot_MOB"
+        },
+        {
+          "name": "Web 2",
+          "type": "W",
+          "host": "https://mhdworldtv.net/",
+          "server": "https://mhdtv.co.in/jio/play.php?id=1450&c=Rishtey_Cineplex"
+        }
+      ]
+    },
+    {
       "name": "Colors Cineplex B",
       "image": "https://i.ibb.co/1bXdXSp/colors-cineplex-b.png",
       "category": "movie",
