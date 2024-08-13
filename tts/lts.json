@@ -113,12 +113,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=27|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=27|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Ayna 2",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=28|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=28|referer=https://nowmetv.xyz/"
         },
         {
           "name": "T Sports 1",
@@ -133,13 +133,13 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=27"
         },
         {
           "name": "Web 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=28"
         }
       ]
@@ -155,23 +155,23 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=19|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=19|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Ayna 2",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=18|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=18|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=19"
         },
         {
           "name": "Web 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=18"
         }
       ]
@@ -332,7 +332,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=48|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=48|referer=https://nowmetv.xyz/"
         }
       ]
     },
@@ -347,12 +347,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=49|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=49|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=49"
         }
       ]
@@ -388,12 +388,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=42|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=42|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=42"
         }
       ]
@@ -419,12 +419,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=43|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=43|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=43"
         }
       ]
@@ -450,7 +450,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://faketv.co.in/criclife/skycricket.php"
         },
         {
@@ -462,7 +462,7 @@
         {
           "name": "Web 3",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://faketv.co.in/criclife/skycricket.php"
         }
       ]
@@ -478,7 +478,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://faketv.co.in/criclife/skymain.php"
         },
         {
@@ -504,7 +504,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://faketv.co.in/criclife/skygolf.php"
         },
         {
@@ -530,7 +530,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://faketv.co.in/criclife/skyepl.php"
         },
         {
@@ -556,7 +556,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://faketv.co.in/criclife/skyfootball.php"
         },
         {
@@ -618,7 +618,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://faketv.co.in/criclife/skymix.php"
         },
         {
@@ -716,18 +716,18 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=113|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=113|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://faketv.co.in/criclife/willowhd.php"
         },
         {
           "name": "Web 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=113"
         }
       ]
@@ -753,7 +753,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=118|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=118|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Link 1",
@@ -763,7 +763,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=118"
         }
       ]
@@ -784,7 +784,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=119|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=119|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Link 1",
@@ -794,7 +794,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=119"
         }
       ]
@@ -990,7 +990,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=115|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=115|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Link 1",
@@ -1000,7 +1000,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=115"
         }
       ]
@@ -1016,7 +1016,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=116|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=116|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Link 1",
@@ -1026,7 +1026,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=116"
         }
       ]
@@ -1042,7 +1042,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=117|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=117|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Link 1",
@@ -1052,7 +1052,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=117"
         }
       ]
@@ -1068,7 +1068,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=120|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=120|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Fixed",
@@ -1078,7 +1078,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=120"
         }
       ]
@@ -1094,12 +1094,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=121|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=121|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=121"
         }
       ]
@@ -1840,12 +1840,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=46|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=46|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=46"
         }
       ]
@@ -1866,12 +1866,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=107|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=107|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=107"
         }
       ]
@@ -1887,7 +1887,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=114|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=114|referer=https://nowmetv.xyz/"
         },
         {
           "name": "ESPN USA",
@@ -1902,7 +1902,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=114"
         }
       ]
@@ -1918,7 +1918,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=68|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=68|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Link 1 HD",
@@ -1933,7 +1933,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=68"
         }
       ]
@@ -1949,12 +1949,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=51|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=51|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=51"
         }
       ]
@@ -1970,7 +1970,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=47|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=47|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Link 1",
@@ -1980,13 +1980,13 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=47"
         },
         {
           "name": "Web 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=47"
         }
       ]
@@ -2002,7 +2002,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtv.co.in/jio/play.php?id=1239&amp;c=Jio_Football_Bangali_HD"
         }
       ]
@@ -2028,12 +2028,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=45|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=45|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=45"
         }
       ]
@@ -2090,7 +2090,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=218|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=218|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Video",
@@ -2100,7 +2100,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=218"
         }
       ]
@@ -2399,7 +2399,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=108|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=108|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Fixed 1",
@@ -2409,7 +2409,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=108"
         },
         {
@@ -2755,12 +2755,12 @@
         {
           "name": "Ayna 1 HD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=76|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=76|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Ayna 2 SD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=84|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=84|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Link 1",
@@ -2770,25 +2770,25 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009280"
         },
         {
           "name": "Web 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtvpro.com/ayna/player.php?c=Ten1HD"
         },
         {
           "name": "Web 3",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=76"
         },
         {
           "name": "Web 4",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=84"
         }
       ]
@@ -2814,12 +2814,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=92|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=92|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Ayna 2",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=88|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=88|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Link 1",
@@ -2829,25 +2829,25 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009277"
         },
         {
           "name": "Web SD 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtvpro.com/ayna/player2.php?c=SonyTen2"
         },
         {
           "name": "Web 3",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=92"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=92"
         }
       ]
@@ -2873,12 +2873,12 @@
         {
           "name": "Ayna 1 HD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=79|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=79|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Ayna 2 SD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=85|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=85|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Link 1",
@@ -2888,25 +2888,25 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009278"
         },
         {
           "name": "Web 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009283"
         },
         {
           "name": "Web 3",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=79"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=85"
         }
       ]
@@ -2932,35 +2932,35 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=91|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=91|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Ayna 2",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=83|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=83|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009275"
         },
         {
           "name": "Web 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtvpro.com/ayna/play.php?c=82"
         },
         {
           "name": "Web 3",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=91"
         },
         {
           "name": "Web 3",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=83"
         }
       ]
@@ -2986,29 +2986,29 @@
         {
           "name": "Ayna 1 SD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=90|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=90|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Ayna 2 HD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=71|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=71|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009247"
         },
         {
           "name": "Web 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009249"
         },
         {
           "name": "Web 3",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=90"
         }
       ]
@@ -3029,24 +3029,24 @@
         {
           "name": "Ayna 1 SD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=82|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=82|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000044878"
         },
         {
           "name": "Web 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtv.co.in/jio/play.php?id=483&c=Sony_MAX2"
         },
         {
           "name": "Web 3",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=82"
         }
       ]
@@ -3072,23 +3072,23 @@
         {
           "name": "Ayna 1 HD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=73|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=73|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Ayna 2 SD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=81|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=81|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1 SD",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=73"
         },
         {
           "name": "Web 1 HD",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=81"
         }
       ]
@@ -3114,23 +3114,23 @@
         {
           "name": "Ayna 1 SD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=80|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=80|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Ayna 2 HD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=77|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=77|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1 SD",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=80"
         },
         {
           "name": "Web 2 HD",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=77"
         }
       ]
@@ -3151,18 +3151,18 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=78|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=78|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009253"
         },
         {
           "name": "Web 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=78"
         }
       ]
@@ -3183,18 +3183,18 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=87|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=87|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://cdn-tv.co.in/sonyliv/play.php?c=1000009273"
         },
         {
           "name": "Web 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=87"
         }
       ]
@@ -3225,12 +3225,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=112|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=112|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=112"
         }
       ]
@@ -3246,12 +3246,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=111|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=111|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=111"
         }
       ]
@@ -3277,29 +3277,29 @@
         {
           "name": "Ayna 1 SD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=72|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=72|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Ayna 1 HD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=75|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=75|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=72"
         },
         {
           "name": "Web 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=75"
         },
         {
           "name": "Web 3",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtv.co.in/jio/play.php?id=823&c=Sony_BBC_Earth_SD"
         }
       ]
@@ -3325,23 +3325,23 @@
         {
           "name": "Ayna 1 SD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=89|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=89|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Ayna 2 HD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=74|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=74|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1 SD",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=89"
         },
         {
           "name": "Web 2 HD",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=74"
         }
       ]
@@ -3362,18 +3362,18 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=86|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=86|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtv.co.in/jio/play.php?id=697&c=Sony_aath"
         },
         {
           "name": "Web 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=86"
         }
       ]
@@ -3394,12 +3394,12 @@
         {
           "name": "Ayna 1 Bangla",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=70|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=70|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1 Bangla",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=70"
         }
       ]
@@ -3450,18 +3450,18 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=157|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=157|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=157"
         },
         {
           "name": "Web 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtv.co.in/jio/play.php?id=1282&amp;c=Khusboo_TV"
         }
       ]
@@ -3477,7 +3477,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtv.co.in/jio/play.php?id=1345&amp;c=Sonic_Bangla"
         },
         {
@@ -3523,18 +3523,18 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtv.co.in/jio/play.php?id=1667&amp;c=Rongeen_TV"
         },
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=179|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=179|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=179"
         }
       ]
@@ -3550,12 +3550,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=162|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=162|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=162"
         }
       ]
@@ -3571,12 +3571,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=66|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=66|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=66"
         }
       ]
@@ -3592,12 +3592,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=224|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=224|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=224"
         }
       ]
@@ -3613,12 +3613,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=228|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=228|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=228"
         }
       ]
@@ -3634,12 +3634,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=110|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=110|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=110"
         }
       ]
@@ -3670,12 +3670,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=55|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=55|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=55"
         }
       ]
@@ -3746,7 +3746,7 @@
         {
           "name": "Fixed",
           "type": "V",
-          "video": "https://mhdworldtv.net/delta/discovery/api/Discovery_Channel.m3u8"
+          "video": "https://nowmetv.xyz/delta/discovery/api/Discovery_Channel.m3u8"
         },
         {
           "name": "Bangla 1",
@@ -3756,7 +3756,7 @@
         {
           "name": "Multiple",
           "type": "V",
-          "video": "https://mhdworldtv.net/delta/discovery/api/Discovery_Bangla.m3u8"
+          "video": "https://nowmetv.xyz/delta/discovery/api/Discovery_Bangla.m3u8"
         }
       ]
     },
@@ -3771,12 +3771,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=226|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=226|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=226"
         }
       ]
@@ -3797,17 +3797,17 @@
         {
           "name": "Fixed",
           "type": "V",
-          "video": "https://mhdworldtv.net/delta/discovery/api/Discovery_Science.m3u8"
+          "video": "https://nowmetv.xyz/delta/discovery/api/Discovery_Science.m3u8"
         },
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=54|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=54|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=54"
         }
       ]
@@ -3858,17 +3858,17 @@
         {
           "name": "Fixed",
           "type": "V",
-          "video": "https://mhdworldtv.net/delta/discovery/api/Discovery_Turbo.m3u8"
+          "video": "https://nowmetv.xyz/delta/discovery/api/Discovery_Turbo.m3u8"
         },
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=53|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=53|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=53"
         }
       ]
@@ -3894,17 +3894,17 @@
         {
           "name": "Fixed",
           "type": "V",
-          "video": "https://mhdworldtv.net/delta/discovery/api/Investigation_Discovery.m3u8"
+          "video": "https://nowmetv.xyz/delta/discovery/api/Investigation_Discovery.m3u8"
         },
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=56|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=56|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=56"
         }
       ]
@@ -3941,7 +3941,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtv.co.in/jio/play.php?id=1962&amp;c=Amaar_Bangla"
         }
       ]
@@ -3957,13 +3957,13 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtv.co.in/jio/play.php?id=1669&amp;c=Sun_Bangla"
         },
         {
           "name": "Web 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://sunnxtv.co.in/sun/play.php?c=75117"
         }
       ]
@@ -3989,23 +3989,23 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=94|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=94|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Ayna 2",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=104|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=104|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtv.co.in/jio/play.php?id=1977&c=Zee_Bangla_HD"
         },
         {
           "name": "Web 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtv.co.in/jio/play.php?id=625&c=Zee_Bangla"
         }
       ]
@@ -4046,13 +4046,13 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtv.co.in/jio/play.php?id=1657&amp;c=Colors_Bangla_Cinema"
         },
         {
           "name": "Web 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtv.co.in/jio/play.php?id=1657&amp;c=Colors_Bangla_Cinema"
         }
       ]
@@ -4073,12 +4073,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=17|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=17|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=17"
         }
       ]
@@ -4094,12 +4094,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=182|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=182|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=182"
         }
       ]
@@ -4115,12 +4115,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=182|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=182|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=182"
         }
       ]
@@ -4141,12 +4141,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=21|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=21|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=21"
         }
       ]
@@ -4167,12 +4167,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=26|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=26|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=26"
         }
       ]
@@ -4193,12 +4193,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=23|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=23|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=23"
         }
       ]
@@ -4219,12 +4219,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=5|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=5|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=5"
         }
       ]
@@ -4245,12 +4245,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=1|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=1|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=1"
         }
       ]
@@ -4271,12 +4271,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=6|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=6|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=6"
         }
       ]
@@ -4297,12 +4297,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=14|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=14|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=14"
         }
       ]
@@ -4323,12 +4323,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=9|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=9|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=9"
         }
       ]
@@ -4349,7 +4349,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://livevoot.co.in/jiovoot/play.php?c=News18_Bangla"
         }
       ]
@@ -4370,12 +4370,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=30|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=30|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=30"
         }
       ]
@@ -4396,12 +4396,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=7|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=7|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=7"
         }
       ]
@@ -4422,12 +4422,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=12|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=12|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=12"
         }
       ]
@@ -4453,12 +4453,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=10|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=10|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=10"
         }
       ]
@@ -4479,12 +4479,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=29|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=29|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=29"
         }
       ]
@@ -4500,12 +4500,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=40|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=40|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=40"
         }
       ]
@@ -4526,12 +4526,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=31|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=31|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=31"
         }
       ]
@@ -4552,12 +4552,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=16|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=16|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=16"
         }
       ]
@@ -4578,12 +4578,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=4|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=4|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=4"
         }
       ]
@@ -4604,12 +4604,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=2|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=2|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=2"
         }
       ]
@@ -4630,12 +4630,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=13|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=13|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=13"
         }
       ]
@@ -4656,12 +4656,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=20|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=20|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=20"
         }
       ]
@@ -4682,12 +4682,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=8|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=8|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=8"
         }
       ]
@@ -4708,12 +4708,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=15|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=15|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=15"
         }
       ]
@@ -4729,12 +4729,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=11|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=11|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=11"
         }
       ]
@@ -4755,12 +4755,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=3|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=3|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=3"
         }
       ]
@@ -4776,12 +4776,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=144|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=144|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=144"
         }
       ]
@@ -4822,12 +4822,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=220|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=220|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtv.co.in/jio/play.php?id=685&amp;c=Zee_Bangla_Cinema"
         }
       ]
@@ -4868,7 +4868,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=105|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=105|referer=https://nowmetv.xyz/"
         }
       ]
     },
@@ -4893,18 +4893,18 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://livevoot.co.in/jiovoot/play.php?c=Colors_HD"
         },
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=106|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=106|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=106"
         }
       ]
@@ -4920,12 +4920,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=135|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=135|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=135"
         }
       ]
@@ -4946,7 +4946,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtv.co.in/jio/play.php?id=1735"
         }
       ]
@@ -4967,12 +4967,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=38|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=38|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=38"
         }
       ]
@@ -5043,12 +5043,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=32|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=32|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=32"
         }
       ]
@@ -5069,12 +5069,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=25|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=25|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=25"
         }
       ]
@@ -5090,12 +5090,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=22|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=22|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=22"
         }
       ]
@@ -5116,12 +5116,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=33|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=33|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=33"
         }
       ]
@@ -5142,12 +5142,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=34|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=34|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=34"
         }
       ]
@@ -5178,12 +5178,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=37|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=37|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=37"
         }
       ]
@@ -5199,12 +5199,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=36|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=36|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=36"
         }
       ]
@@ -5225,12 +5225,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=35|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=35|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=35"
         }
       ]
@@ -5278,12 +5278,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=185|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=185|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=185"
         }
       ]
@@ -5314,12 +5314,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=136|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=136|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=136"
         }
       ]
@@ -5335,12 +5335,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=140|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=140|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=140"
         }
       ]
@@ -5511,12 +5511,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=24|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=24|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=24"
         }
       ]
@@ -5637,12 +5637,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=95|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=95|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=95"
         }
       ]
@@ -5723,12 +5723,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=102|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=102|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=102"
         }
       ]
@@ -5754,12 +5754,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=93|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=93|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=93"
         }
       ]
@@ -5795,12 +5795,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=65|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=65|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=65"
         }
       ]
@@ -5821,17 +5821,17 @@
         {
           "name": "Fixed Hindi",
           "type": "V",
-          "video": "https://mhdworldtv.net/delta/discovery/api/Discovery_Kids_Hindi.m3u8"
+          "video": "https://nowmetv.xyz/delta/discovery/api/Discovery_Kids_Hindi.m3u8"
         },
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=52|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=52|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=52"
         }
       ]
@@ -5887,7 +5887,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtv.co.in/jio/play.php?id=559&c=Pogo_Hindi"
         }
       ]
@@ -5943,12 +5943,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=103|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=103|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=103"
         }
       ]
@@ -5969,12 +5969,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=187|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=187|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=187"
         }
       ]
@@ -6000,12 +6000,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=109|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=109|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=109"
         }
       ]
@@ -6031,12 +6031,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=101|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=101|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=101"
         }
       ]
@@ -6117,12 +6117,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=59|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=59|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=59"
         }
       ]
@@ -6143,12 +6143,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=63|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=63|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=63"
         }
       ]
@@ -6184,12 +6184,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=100|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=100|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=100"
         }
       ]
@@ -6450,12 +6450,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=39|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=39|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=39"
         }
       ]
@@ -6486,31 +6486,31 @@
         {
           "name": "Web 1 HD",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtv.co.in/jio/play.php?id=753&c=MTV_Beats_HD"
         },
         {
           "name": "Web 2 HD",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://livevoot.co.in/voot/play.php?id=MTV_Beats_HD_voot_MOB"
         },
         {
           "name": "Web 3 HD",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://livevoot.co.in/jiovoot/play.php?c=MTV_Beats_HD"
         },
         {
           "name": "Web 4 SD",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://livevoot.co.in/voot/play.php?id=MTV_Beats_voot_MOB"
         },
         {
           "name": "Web 5 SD",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://livevoot.co.in/jiovoot/play.php?c=MTV_Beats"
         }
       ]
@@ -6556,12 +6556,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=50|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=50|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=50"
         }
       ]
@@ -6582,18 +6582,18 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=50|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=50|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=50"
         },
         {
           "name": "Web 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://livevoot.co.in/voot/play.php?id=MTV_HD_Plus_voot_MOB"
         }
       ]
@@ -6619,12 +6619,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=99|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=99|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=99"
         }
       ]
@@ -6665,17 +6665,17 @@
         {
           "name": "Fixed",
           "type": "V",
-          "video": "https://mhdworldtv.net/delta/discovery/api/TLC_Hindi.m3u8"
+          "video": "https://nowmetv.xyz/delta/discovery/api/TLC_Hindi.m3u8"
         },
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=57|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=57|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=57"
         }
       ]
@@ -6696,12 +6696,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=44|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=44|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=44"
         }
       ]
@@ -6737,12 +6737,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=96|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=96|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=96"
         }
       ]
@@ -6788,12 +6788,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=154|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=154|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=154"
         }
       ]
@@ -6809,17 +6809,17 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=156|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=156|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Ayna 2",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=122|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=122|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=122"
         }
       ]
@@ -6835,12 +6835,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=155|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=155|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=155"
         }
       ]
@@ -6856,12 +6856,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=163|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=163|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=163"
         }
       ]
@@ -6877,12 +6877,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=153|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=153|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=153"
         }
       ]
@@ -6898,12 +6898,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=149|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=149|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=149"
         }
       ]
@@ -6919,12 +6919,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=90|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=90|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=190"
         }
       ]
@@ -6940,12 +6940,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=191|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=191|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=191"
         }
       ]
@@ -6961,12 +6961,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=188|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=188|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=188"
         }
       ]
@@ -6982,12 +6982,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=150|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=150|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=150"
         }
       ]
@@ -7003,12 +7003,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=152|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=152|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=152"
         }
       ]
@@ -7024,12 +7024,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=151|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=151|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=151"
         }
       ]
@@ -7045,12 +7045,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=69|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=69|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=69"
         }
       ]
@@ -7066,12 +7066,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=221|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=221|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=221"
         }
       ]
@@ -7087,12 +7087,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=222|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=222|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=222"
         }
       ]
@@ -7108,12 +7108,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=225|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=225|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=225"
         }
       ]
@@ -7129,12 +7129,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=138|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=138|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=138"
         }
       ]
@@ -7150,12 +7150,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=164|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=164|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=164"
         }
       ]
@@ -7191,13 +7191,13 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://livevoot.co.in/project/play.php?id=Rishtey_Cineplex_voot_MOB"
         },
         {
           "name": "Web 2",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtv.co.in/jio/play.php?id=1450&c=Rishtey_Cineplex"
         }
       ]
@@ -7263,12 +7263,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=169|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=169|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=169"
         }
       ]
@@ -7284,12 +7284,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=143|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=143|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=143"
         }
       ]
@@ -7365,7 +7365,7 @@
         {
           "name": "Fixed",
           "type": "V",
-          "video": "https://mhdworldtv.net/delta/discovery/api/Animal_Planettv_Hindi.m3u8"
+          "video": "https://nowmetv.xyz/delta/discovery/api/Animal_Planettv_Hindi.m3u8"
         }
       ]
     },
@@ -7380,12 +7380,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=128|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=128|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=128"
         }
       ]
@@ -7451,12 +7451,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=140|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=140|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=140"
         }
       ]
@@ -7472,12 +7472,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=125|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=125|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=125"
         }
       ]
@@ -7493,12 +7493,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=134|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=134|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=134"
         }
       ]
@@ -7514,12 +7514,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=147|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=147|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=147"
         }
       ]
@@ -7535,12 +7535,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=217|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=217|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=217"
         }
       ]
@@ -7556,12 +7556,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=183|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=183|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=183"
         }
       ]
@@ -7597,7 +7597,7 @@
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://mhdtv.co.in/jio/play.php?id=584&c=Mastiii"
         }
       ]
@@ -7613,12 +7613,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=123|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=123|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=123"
         }
       ]
@@ -7634,12 +7634,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=175|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=175|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=175"
         }
       ]
@@ -7655,12 +7655,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=227|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=227|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=227"
         }
       ]
@@ -7676,12 +7676,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=137|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=137|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=137"
         }
       ]
@@ -7717,12 +7717,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=167|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=167|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=167"
         }
       ]
@@ -7753,12 +7753,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=230|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=230|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=230"
         }
       ]
@@ -7774,12 +7774,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=229|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=229|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=229"
         }
       ]
@@ -7795,19 +7795,19 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=198|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=198|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=198"
         }
       ]
     },
     {
       "name": "The Temptation Channel",
-      "image": "https://mhdworldtv.net/wp-content/uploads/2023/11/tempta.webp",
+      "image": "https://nowmetv.xyz/wp-content/uploads/2023/11/tempta.webp",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -7851,12 +7851,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=158|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=158|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=158"
         }
       ]
@@ -7877,12 +7877,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=194|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=194|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=194"
         }
       ]
@@ -7898,12 +7898,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=131|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=131|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=131"
         }
       ]
@@ -7934,17 +7934,17 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "getLink:https://cdn-tv.co.in/shemaroo/player.php?watch=shemaroo-umang|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://cdn-tv.co.in/shemaroo/player.php?watch=shemaroo-umang|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=180|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=180|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=180"
         }
       ]
@@ -7960,17 +7960,17 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "getLink:https://cdn-tv.co.in/shemaroo/player.php?watch=shemaroo-tv|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://cdn-tv.co.in/shemaroo/player.php?watch=shemaroo-tv|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=174|referer=https://mhdworldtv.net/"
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=174|referer=https://nowmetv.xyz/"
         },
         {
           "name": "Web 1",
           "type": "W",
-          "host": "https://mhdworldtv.net/",
+          "host": "https://nowmetv.xyz/",
           "server": "https://entezeetv.fun/ayna/play.php?id=174"
         }
       ]
